@@ -1,0 +1,8 @@
+dist/
+build/
+*.exe
+*.pkg
+*.pyz
+__pycache__/
+*.pyc
+
